@@ -2,7 +2,7 @@ import AddIngredientForm from "@/component/addIngredientForm";
 
 export default function Recette() {
     return(
-        <section>
+        <section className="container mx-auto p-4 flex flex-col items-center">
           <h2>Création d'une recette</h2>
 
           <form className="mt-2">
