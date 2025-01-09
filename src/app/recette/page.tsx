@@ -1,3 +1,5 @@
+import AddIngredientForm from "@/component/addIngredientForm";
+
 export default function Recette() {
     return(
         <section>
